@@ -15,4 +15,4 @@
         if message.content == "Hello":
             await client.send_message(message.channel, "World")
 
-    client.run(NDM1ODg5MTIwMDg3MjQ0ODAx.Dbk2-A.iQN-hwpyqKhemyG-wdMNS804tO8)
+    client.run(<NDM1ODg5MTIwMDg3MjQ0ODAx.Dbk2-A.iQN-hwpyqKhemyG-wdMNS804tO8>)
